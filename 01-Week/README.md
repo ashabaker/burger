@@ -10,7 +10,7 @@ You will also be introduced to live deployments using Github Pages and a thoroug
 ###### [Monday](01-html-git)
   * [Morning Lecture](https://www.youtube.com/edit?o=U&video_id=wTgy8g1ufdw)
   * [Afternoon Lecture](https://www.youtube.com/edit?o=U&video_id=MVj6QyIaUxs)
-  * [The Zen of Coding (PDF)](01-html-git/03-Presentation/TheZenofCoding.pdf)
+  * [The Zen of Coding (PDF)](01-html-git/01.1TheZenofCoding.pdf)
 
 ### Videos
   * [Lesson 1.1 - My first HTML](https://www.youtube.com/watch?v=ieb6Svbc10E)
