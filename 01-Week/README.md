@@ -37,6 +37,8 @@ You will also be introduced to live deployments using Github Pages and a thoroug
   * [Generating an SSH Key for GitHub](https://help.github.com/articles/generating-an-ssh-key/)
   * [Most Basic Git Commands with Examples – a Welcome Introduction to Git](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
   * [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+  * [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+  * [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 ### Troubleshooting
   * [git-troubleshoot](https://github.com/nielsenjared/git-troubleshoot)
