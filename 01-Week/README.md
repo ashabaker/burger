@@ -8,12 +8,18 @@ You will also be introduced to live deployments using Github Pages and a thoroug
 ### Slide Shows && Lectures
 
 ###### [Monday](01-html-git)
-  * [Morning Lecture](https://www.youtube.com/edit?o=U&video_id=wTgy8g1ufdw)
-  * [Afternoon Lecture](https://www.youtube.com/edit?o=U&video_id=MVj6QyIaUxs)
+  * [Morning Lecture](https://youtu.be/wTgy8g1ufdw)
+  * [Afternoon Lecture](https://youtu.be/MVj6QyIaUxs)
   * [The Zen of Coding (PDF)](01-html-git/01.1TheZenofCoding.pdf)
+
+###### [Tuesday](02-html-css)
+  * [Morning Lecture]()
+  * [Afternoon Lecture]()
+  * [HTML + CSS (PDF)](01-html-git/01.2HTML+CSS.pdf)
 
 ### Videos
   * [Lesson 1.1 - My first HTML](https://www.youtube.com/watch?v=ieb6Svbc10E)
+  * [Lesson 1.2 - Student Bio Layout](https://youtu.be/kMBinXTCrXI)
 
 ### Homework Activities
   * [Build Your Portfolio Page](Homework/01-portfolio-html-css/recommended-homework-assignment.md)
@@ -26,7 +32,11 @@ You will also be introduced to live deployments using Github Pages and a thoroug
   * [Steps TO Upload to Github](Supplemental/StepsToUploadtoGithub.pdf)
 
 ### Helpful Links
+  * [git basics](https://github.com/nielsenjared/git-basics)
+  * [Command Line basic commands](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html)
   * [Generating an SSH Key for GitHub](https://help.github.com/articles/generating-an-ssh-key/)
+  * [Most Basic Git Commands with Examples – a Welcome Introduction to Git](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
+  * [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
 ### Troubleshooting
   * [git-troubleshoot](https://github.com/nielsenjared/git-troubleshoot)
