@@ -13,8 +13,8 @@ You will also be introduced to live deployments using Github Pages and a thoroug
   * [The Zen of Coding (PDF)](01-html-git/01.1TheZenofCoding.pdf)
 
 ###### [Tuesday](02-html-css)
-  * [Morning Lecture]()
-  * [Afternoon Lecture]()
+  * [Morning Lecture](https://youtu.be/JAxNlQEoWEg)
+  * [Afternoon Lecture](https://youtu.be/6Gu1H48HTzc)
   * [HTML + CSS (PDF)](01-html-git/01.2HTML+CSS.pdf)
 
 ### Videos
