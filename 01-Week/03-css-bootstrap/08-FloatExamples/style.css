@@ -15,13 +15,3 @@
 .content2 {
   float: left;
 }
-
-
-/* clearfix is applied to the parent container to 'fix' the flow of the page */
-
-.clearfix::after {
-  content: "";
-  display: block;
-  clear: both;
-}
-
