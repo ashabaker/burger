@@ -27,7 +27,7 @@ You will also be introduced to live deployments using Github Pages and a thoroug
   * [Afternoon Lecture]()
   * [Bootstrap (PDF)]()
 
-###### [Thursday]()
+###### [Friday]()
   * [Morning Lecture]()
   * [Afternoon Lecture]()
   * [Project 0 (PDF)]()
